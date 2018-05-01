@@ -22,4 +22,5 @@ using the standard java commands.
 
 # Execution Screenshot
 <!-- ![alt text](https://raw.githubusercontent.com/afinlay5/finalize-/master/gradle_run.png) -->
-![alt text](https://raw.githubusercontent.com/afinlay5/finalize-/master/run.png)
+![alt text](https://raw.githubusercontent.com/afinlay5/finalize-/master/run_suse.png)
+![alt text](https://raw.githubusercontent.com/afinlay5/finalize-/master/run_mint.png)
